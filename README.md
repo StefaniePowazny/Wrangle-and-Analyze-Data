@@ -1,5 +1,5 @@
 # Wrangle-and-Analyze-Data
-Udacity Data Analyst Nanodegree t2-p3 - project under construction!
+Udacity Data Analyst Nanodegree t2-p3 - project mets specifications
 
 # Introduction
 
